@@ -15,6 +15,6 @@ criaCartao(
 )
 criaCartao(
     'Carro',
-    'Qual a litragem do motor do Chevrolet Celta?',
+    'Qual a litragem do motor do Fiat Mobi?',
     '1.0'
 )
